@@ -1,13 +1,182 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite + React</title>
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.jsx"></script>
-  </body>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Ong Pei Yong - Data Engineer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f7f7f7;
+      color: #333;
+    }
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      background: #fff;
+      padding: 30px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1, h2, h3 {
+      color: #2c3e50;
+    }
+    a {
+      color: #0077cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .contact-info p {
+      margin: 5px 0;
+    }
+    section {
+      margin-top: 30px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    li {
+      margin-bottom: 8px;
+    }
+    .section-title {
+      border-bottom: 2px solid #2c3e50;
+      padding-bottom: 5px;
+      margin-bottom: 15px;
+    }
+    .two-col {
+      display: flex;
+      flex-wrap: wrap;
+    }
+    .two-col > div {
+      flex: 1;
+      min-width: 250px;
+      margin-right: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Ong Pei Yong</h1>
+    <h3>Data Engineer / SQL Developer</h3>
+    <div class="contact-info">
+      <p>Email: <a href="mailto:florexong99@gmail.com">florexong99@gmail.com</a></p>
+      <p>Phone: <a href="tel:01111985387">011-1198 5387</a></p>
+      <p>Location: Selangor, Malaysia</p>
+      <p>GitHub: <a href="https://github.com/florexong" target="_blank">github.com/florexong</a></p>
+      <p>LinkedIn: <a href="https://linkedin.com/in/ong-pei-yong-4a9b10175" target="_blank">linkedin.com/in/ong-pei-yong</a></p>
+    </div>
+
+    <section>
+      <h2 class="section-title">Professional Summary</h2>
+      <p>Versatile and proactive Data Engineer with hands-on experience in building ETL pipelines, managing data warehouses, and delivering business intelligence insights. Demonstrates strong skills in Python, SQL, and system administration. Adept at streamlining data processes, ensuring data governance, and supporting decision-making through analytics and reporting tools.</p>
+    </section>
+
+    <section>
+      <h2 class="section-title">Technical Skills</h2>
+      <div class="two-col">
+        <div>
+          <h4>Data Engineering</h4>
+          <ul>
+            <li>ETL/ELT Pipeline Design</li>
+            <li>Data Warehouse Architecture</li>
+            <li>Data Modeling</li>
+          </ul>
+          <h4>Programming/Development</h4>
+          <ul>
+            <li>Python</li>
+            <li>DBT Core</li>
+            <li>SSIS</li>
+            <li>Git</li>
+          </ul>
+          <h4>System Admin</h4>
+          <ul>
+            <li>Linux (Debian/Ubuntu)</li>
+            <li>Docker</li>
+            <li>Network Configuration</li>
+            <li>Server Management</li>
+          </ul>
+        </div>
+        <div>
+          <h4>Database</h4>
+          <ul>
+            <li>SQL</li>
+            <li>AWS Redshift</li>
+          </ul>
+          <h4>BI Tools</h4>
+          <ul>
+            <li>Power BI</li>
+            <li>Tableau</li>
+            <li>SSRS</li>
+          </ul>
+          <h4>Security</h4>
+          <ul>
+            <li>Data Encryption</li>
+            <li>Data Governance</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2 class="section-title">Professional Experience</h2>
+
+      <h3>SQL Developer – Swap Asia</h3>
+      <p><em>Petaling Jaya, Malaysia | Jul 2023 – May 2024</em></p>
+      <ul>
+        <li>Improved Power BI dashboard performance by solving a critical query issue in under a month.</li>
+        <li>Modified and deployed SSIS packages, integrating Cozyrocs for smooth execution.</li>
+        <li>Deployed SSRS financial reports to enhance data-driven decision making.</li>
+        <li>Automated EDI exports from SQL Server using SSIS and SFTP for secure delivery.</li>
+        <li>Implemented AES-256 encryption to ensure PDPA compliance in SQL Server.</li>
+      </ul>
+
+      <h3>Junior Data Engineer – Whip Mobility</h3>
+      <p><em>Selangor, Malaysia | Jul 2022 – Jul 2023</em></p>
+      <ul>
+        <li>Designed complete data infrastructure including ETL/ELT pipelines and a centralized data warehouse.</li>
+        <li>Cut manual ETL time by 90% by implementing automated tools.</li>
+        <li>Maintained data accuracy >90% across the pipeline and applied governance policies.</li>
+        <li>Created tailored data models and maintained DBT Core SQL queries for analytics needs.</li>
+      </ul>
+
+      <h3>Software QA Analyst – Whip Mobility</h3>
+      <p><em>Selangor, Malaysia | Jan 2022 – Jun 2022</em></p>
+      <ul>
+        <li>Ensured successful integration of third-party APIs through comprehensive testing.</li>
+        <li>Supported new feature launches with thorough QA testing cycles.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2 class="section-title">Education</h2>
+      <p><strong>Bachelor of Computer Science (Hons) – Specialization in Data Science</strong></p>
+      <p><em>Multimedia University, Cyberjaya | Dec 2018 – Dec 2021 | CGPA: 3.1 / 4.0</em></p>
+    </section>
+
+    <section>
+      <h2 class="section-title">Projects</h2>
+      <h3>Home Lab Server</h3>
+      <p><em>May 2024 – Present</em></p>
+      <ul>
+        <li>Hosted on Debian 12 using Docker containers.</li>
+        <li>Runs Jellyfin, P2P file sharing, and multiplayer game servers (e.g. Minecraft, Palworld).</li>
+        <li>Configured remote access via ZeroTier virtual LAN.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2 class="section-title">Certifications</h2>
+      <ul>
+        <li><a href="https://www.credly.com/badges/f9e2adb3-c8de-4c01-aaa9-dc64e6b2b958/linked_in?t=ruopoc" target="_blank">SAFe 6 Practitioner – Scaled Agile</a></li>
+      </ul>
+    </section>
+
+    <section>
+      <h2 class="section-title">Languages</h2>
+      <p>English | Chinese | Malay | Hokkien</p>
+    </section>
+  </div>
+</body>
 </html>
