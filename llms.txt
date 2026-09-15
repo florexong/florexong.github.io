@@ -1,0 +1,76 @@
+# Ong Pei Yong - Freelance Data Engineer & Cloud Analytics Consultant
+
+> Versatile, outcome-driven Freelance Data Engineer and SQL Developer specializing in automated Python ETL/ELT pipelines, dbt Core data warehouse architecture, database performance tuning, and executive Power BI dashboards. Available for global remote contracts, sprint-based deliverables, and monthly retainers.
+
+## Profile Summary
+- **Name**: Ong Pei Yong
+- **Role**: Freelance Data Engineer / Cloud Analytics Consultant
+- **Location**: Selangor, Malaysia (UTC+8) • Operating Worldwide (Remote / Digital Nomad)
+- **Email**: florexong99@gmail.com
+- **Website**: https://florexong.github.io
+- **GitHub**: https://github.com/florexong
+- **LinkedIn**: https://linkedin.com/in/ong-pei-yong-4a9b10175
+- **Verified Resume**: https://drive.google.com/file/d/1jnX8qXnpkaItbWMOZ42XO0m7P1fQvduI/view?usp=drive_link
+
+---
+
+## Core Technical Competencies & Services
+
+### 1. Automated ETL / ELT Pipeline Architecture
+- Ingesting, cleaning, and transforming high-volume data from 3rd-party APIs, transactional SQL databases, and flat files.
+- Orchestrating automated pipelines using Python and dbt Core.
+- Designing dimensional models and staging layers in cloud data warehouses (AWS Redshift, PostgreSQL, SQL Server).
+
+### 2. SQL Performance Tuning & Query Optimization
+- Profiling execution plans, eliminating expensive table scans, implementing indexing strategies, and refactoring subqueries.
+- Proven track record of reducing query execution times from minutes down to seconds for high-concurrency dashboards.
+
+### 3. Executive Business Intelligence & Reporting
+- Building automated, interactive executive dashboards in Power BI, Tableau, and SSRS.
+- Developing advanced DAX measures, dimensional modeling, and financial reporting automation.
+
+### 4. Data Automation, Security & Systems Administration
+- Enterprise AES-256 column-level encryption for PDPA / data privacy compliance.
+- Automated EDI and secure financial file delivery via SFTP and SSIS (integrated with CozyRoc connectors).
+- Self-hosted Debian 12 staging servers with containerized Docker services and ZeroTier encrypted software-defined mesh network.
+
+---
+
+## Verified Outcomes & Case Studies
+
+1. **Whip Mobility (Junior Data Engineer)**
+   - Architected complete end-to-end data infrastructure including automated ETL/ELT pipelines and centralized data warehouse.
+   - Reduced manual data processing time by 90% via automated Python scripts and scheduled workflows.
+   - Maintained over 90% data accuracy across pipeline stages with automated data validation and governance.
+   - Developed tailored data models and maintained dbt Core SQL queries for business analytics.
+
+2. **Swap Asia (SQL Developer & BI Specialist)**
+   - Diagnosed and resolved a mission-critical Power BI query performance bottleneck in under 30 days.
+   - Modified and deployed SSIS packages with CozyRoc connectors for reliable enterprise ETL.
+   - Automated secure EDI financial exports from SQL Server via SFTP.
+   - Implemented AES-256 encryption in SQL Server to ensure strict PDPA compliance.
+
+3. **Self-Hosted Infrastructure (Home Lab Server)**
+   - Built 24/7 self-hosted Debian 12 server running containerized services via Docker.
+   - Configured ZeroTier encrypted mesh network for secure remote access without open firewall ports.
+
+---
+
+## Spoken Languages & Global Communication Fluency
+- **English**: Fluent / Full Professional Working Proficiency (Technical specs, async Loom video demos, Zoom/Slack).
+- **Chinese (Mandarin & Cantonese)**: Native / Bilingual Proficiency (Cross-border APAC collaboration with Singapore, Hong Kong, and Taiwan).
+- **Malay (Bahasa Melayu)**: Professional Working Proficiency (Malaysian national and regional enterprise standard).
+- **Hokkien**: Native Spoken Fluency.
+
+---
+
+## Remote Work & Collaboration Framework
+- **Timezone Overlap**: Based in Malaysia (UTC+8) with daily overlapping working hours for US West Coast (morning standups), US East Coast, and European afternoons (CET/GMT).
+- **Asynchronous-First Velocity**: Regular Loom video demos, detailed Notion documentation, and Git pull requests to eliminate meeting fatigue and maintain high development speed.
+- **Contract & Billing**: Available for fixed-scope milestones or monthly retainers. Seamless multi-currency invoicing via Wise or Stripe (USD, EUR, GBP, SGD, MYR).
+
+---
+
+## Credentials & Education
+- **Certification**: SAFe 6 Practitioner – Scaled Agile Certified (Credly verification: https://www.credly.com/badges/f9e2adb3-c8de-4c01-aaa9-dc64e6b2b958/linked_in?t=ruopoc)
+- **Education**: Bachelor of Computer Science (Hons) – Specialization in Data Science, Multimedia University, Cyberjaya (CGPA: 3.1 / 4.0)
